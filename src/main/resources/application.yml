@@ -1,0 +1,7 @@
+stubrunner:
+  ids: com.digi:contractrepo
+  cloud.stubbed.discovery.enabled: false
+  stubs-mode: local
+spring:
+  application:
+    name: stubrunner
